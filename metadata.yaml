@@ -1,0 +1,26 @@
+_repo: The-Sweating-Sickness-in-England_63376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Webb, Francis Cornelius
+    alias: Webb, Francis C.
+    birthdate: 1826
+    deathdate: 1873
+    gutenberg_agent_id: '52410'
+    url: http://www.gutenberg.org/2009/agents/52410
+    wikipedia: https://en.wikipedia.org/wiki/Francis_Cornelius_Webb
+description: ''
+gutenberg_issued: '2020-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63376'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sweating-sickness -- History'
+- !lcc 'RC'
+- GITenberg
+title: The Sweating Sickness in England
+url: http://www.gutenberg.org/ebooks/63376
